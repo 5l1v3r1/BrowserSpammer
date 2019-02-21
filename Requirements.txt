@@ -1,0 +1,4 @@
+# This is tested on Windows 10 (its working) and tested on kali Linux (its not working)
+# You have to have python installed
+# This is a pretty easy script btw tbh xd
+# You have to restart your PC if the browsers open xd xd xd xd xd xd xd xd
